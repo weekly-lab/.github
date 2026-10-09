@@ -25,4 +25,4 @@
 
 - [위클리랩 홈페이지](https://weekly-lab.com)
 - [구축/개발 사례](https://weekly-lab.com/#work)
-- 이메일: [ddagae0805@gmail.com](mailto:ddagae0805@gmail.com)
+- 이메일: [dc-choi@weekly-lab.com](mailto:dc-choi@weekly-lab.com)
